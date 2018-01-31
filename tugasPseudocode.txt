@@ -1,0 +1,78 @@
+﻿Tugas Hari Senin :
+
+Pseudocode Challenge
+
+
+1. Newton Second Law :
+	Sigma F = m x a
+
+            F = Resultan Gaya (Newton) 
+	m = massa benda (kg) -------------→ 600 kg
+             a =  Percepatan benda ( m/s2) ---→     2 m/s 2
+Pseucode :
+		store “m” with value 600 kg
+		store “a” with value 2 m/s2
+		store “F” without any value
+
+		calculate “m” times “a”
+		set “F” value with calculation resut
+		Display “F” = 1.200 kg m/s 2
+
+2.  Tahun Kabisat (Tahun yang bulan Februarinya sampai tanggal 29)
+
+	Tahun Kabisat (Leap Year) memiliki kriteria  :
+	
+	1. Jika tahun habis dibagi 4 dan tidak habis dibagi 100.
+	2. Jika tahun habis dibagi 4, habis dibagi 100 dan habis dibagi 400.
+
+
+Pseudocode :
+
+If year divided 4 is 0
+  then 
+	if year devided 100 is 0
+	  then
+		if year modul0 400 is 0
+			year is Leap year
+
+		else  year is not leap year
+	else year is  leap year
+else year is not leap year
+
+3.  Laundry Day
+
+Count pakaian yang akan dicuci
+
+if pakaian yang akan dicuci = 20
+
+Then Mesin cuci dinyalakan
+
+Else keep count
+
+End if
+
+Mesin mulai mencuci
+End. 
+
+	
+
+
+4. Periksa kuku
+
+State : Guru Periksa Kuku 40 siswa/siswi
+
+If kuku siswa/siswi panjang
+
+Then Guru menghukum siswa/siswi
+
+Else Guru akan memuji siswa
+
+
+
+
+
+
+
+
+
+
